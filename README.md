@@ -17,10 +17,9 @@ Main Features:
 Execution:
 
 To run the utility, use the following loadstring in your executor:
-Lua
-
+```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/YOUR_USERNAME/SynSaveInstance-Plus-Plus/main/main.lua"))()
-
+```
 Information:
 The utility automatically fetches the latest core logic and allows real-time switching between capture modes (Full, Scripts, or Objects). All output files are saved to your exploit's workspace folder in .rbxl format.
 
