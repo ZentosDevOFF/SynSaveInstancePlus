@@ -1,48 +1,31 @@
-# SynSaveInstance++ 
+SynSaveInstance++
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status">
-  <img src="https://img.shields.io/badge/Version-1.0.0-blue" alt="Version">
-  <img src="https://img.shields.io/badge/License-MIT-orange" alt="License">
-</p>
+SynSaveInstance++ is a high-performance graphical wrapper for the Universal SSI core. It provides a professional interface to manage complex place-saving parameters without manually editing script configurations.
 
-**SynSaveInstance++** is a high-performance wrapper for the universal place-saving core. It provides a professional graphical interface to manage complex capture settings without editing code.
+Main Features:
 
----
+    Full SSI Core Support: Includes Terrain data and Raw properties capture.
 
-## 🚀 Quick Start
+    Advanced Decompiler Control: Adjustable timeouts up to 300 seconds for complex environments.
 
-To run the utility with the premium GUI, execute this command in your exploit:
+    Optimized for Large Maps: Built-in settings to handle massive places (Forsaken-ready).
 
-```lua
-loadstring(game:HttpGet("[https://raw.githubusercontent.com/ZentosDevOFF/SynSaveInstance-/main/main.lua](https://raw.githubusercontent.com/ТВОЙ_НИК/SynSaveInstance-Plus-Plus/main/main.lua)"))()
+    Bilingual Interface: Toggle between English and Russian languages instantly.
 
-🛠 Key Features
+    Modular Architecture: Separate GUI and Core logic for maximum stability and speed.
 
-    Modular GUI: Lightweight Orion-based interface that doesn't bloat the core.
+Execution:
 
-    Decompiler Pro: Custom timeouts (up to 300s) for heavy scripts.
+To run the utility, use the following loadstring in your executor:
+Lua
 
-    Terrain & Raw Support: Full voxel data and unfiltered property saving.
+loadstring(game:HttpGet("https://raw.githubusercontent.com/YOUR_USERNAME/SynSaveInstance-Plus-Plus/main/main.lua"))()
 
-    Large Map Optimization: Pre-configured for massive environments (Forsaken-ready).
+Information:
+The utility automatically fetches the latest core logic and allows real-time switching between capture modes (Full, Scripts, or Objects). All output files are saved to your exploit's workspace folder in .rbxl format.
 
-    Bilingual: Toggle between English and Russian on the fly.
+Credits:
 
-⚙️ Configuration
+    UniversalSynSaveInstance: https://discord.gg/wx4ThpAsmw
 
-The UI allows you to control:
-
-    Mode: Full, Scripts, or Objects.
-
-    Noscripts: Fast mode for quick geometry capture.
-
-    RemovePlayerCharacters: Keeps the output file clean.
-
-    ObjectSplitThreshold: Prevents crashes during massive file serialization.
-
-📜 Credits
-
-    Core Logic: Universal SynSaveInstance Team
-
-    GUI & Wrapper: YourName / SynSaveInstance++
+    GUI & Wrapper: SynSaveInstance++ Team
