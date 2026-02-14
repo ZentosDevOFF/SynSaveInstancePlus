@@ -8,7 +8,7 @@ Main Features:
 
     Advanced Decompiler Control: Adjustable timeouts up to 300 seconds for complex environments.
 
-    Optimized for Large Maps: Built-in settings to handle massive places (Forsaken-ready).
+    Optimized for Large Maps: Built-in settings to handle massive places.
 
     Bilingual Interface: Toggle between English and Russian languages instantly.
 
@@ -27,4 +27,4 @@ Credits:
 
     UniversalSynSaveInstance: https://discord.gg/wx4ThpAsmw
 
-    GUI & Wrapper: SynSaveInstance++ Team
+    ZentosDevOFF: SynSaveInstance++ 
