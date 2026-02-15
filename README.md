@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=shining&color=auto&height=200&section=header&text=SynSaveInstance%2B%2B&fontSize=70" width="100%" />
+  <img src="(https://github.com/ZentosDevOFF/SynSaveInstancePlus/blob/main/favicon.png)?type=shining&color=auto&height=200&section=header&text=SynSaveInstance%2B%2B&fontSize=70" width="100%" />
 </p>
 
 SynSaveInstance++
