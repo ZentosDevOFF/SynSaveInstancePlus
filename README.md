@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ZentosDevOFF/SynSaveInstancePlus/main/favicon.png" width="150" />
+  <img src="https://raw.githubusercontent.com/ZentosDevOFF/SynSaveInstancePlus/main/favicon.png" width="300" />
 </p>
 
 SynSaveInstance++
